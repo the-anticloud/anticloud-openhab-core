@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:40c38747-a215-5dbc-a9a1-f580a17c2b63",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-12T07:18:27Z",
+    "component": {
+      "type": "application",
+      "name": "OPENHAB_CORE",
+      "version": "167a271d2aa5",
+      "bom-ref": "pkg:generic/anticloud/OPENHAB_CORE@167a271d2aa5",
+      "purl": "pkg:generic/anticloud/OPENHAB_CORE@167a271d2aa5",
+      "licenses": [
+        {
+          "license": {
+            "id": "ISC"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "167a271d2aa5e534f097d792c015639d1978c86e"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": ""
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
